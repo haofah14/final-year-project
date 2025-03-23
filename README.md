@@ -1,8 +1,8 @@
-## 🚀 Catalyzing Content Generation and Automation: Empowering Diverse Written Content Creation through Generative AI 
+## Catalyzing Content Generation and Automation: Empowering Diverse Written Content Creation through Generative AI 
 
 This repository hosts a comprehensive research project and practical implementation exploring how Generative AI can empower the creation of diverse written content. The project systematically evaluates powerful language models like GPT-2, GPT-Neo, and OPT-125m, focusing on automated creativity assessment and practical deployment through an intuitive web application.
 
-### 🌟 Project Overview
+### Project Overview
 
 Title: Catalyzing Content Generation and Automation: Empowering Diverse Written Content Creation through Generative AI
 
@@ -16,7 +16,6 @@ This research addresses key limitations of traditional content creation by harne
 
 ### Project Structure
 
-'''
 .
 ├── models/                 # Trained models and weights  
 ├── static/                 # Static files for web deployment  
@@ -34,4 +33,3 @@ This research addresses key limitations of traditional content creation by harne
 ├── gpt-2-model.ipynb       # GPT-2 training notebook  
 ├── gpt-neo-model.ipynb     # GPT-Neo training notebook  
 └── opt-model.ipynb         # OPT-125 training notebook  
-'''

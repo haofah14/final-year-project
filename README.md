@@ -16,7 +16,7 @@ This research addresses key limitations of traditional content creation by harne
 
 ### Project Structure
 
-.
+```
 ├── models/                 # Trained models and weights  
 ├── static/                 # Static files for web deployment  
 ├── web_app/                # Web application prototype  
@@ -33,3 +33,4 @@ This research addresses key limitations of traditional content creation by harne
 ├── gpt-2-model.ipynb       # GPT-2 training notebook  
 ├── gpt-neo-model.ipynb     # GPT-Neo training notebook  
 └── opt-model.ipynb         # OPT-125 training notebook  
+```

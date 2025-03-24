@@ -47,5 +47,5 @@ This research addresses key limitations of traditional content creation by harne
 
 Due to size limitations, the model weights are hosted on Hugging Face (Under Files and Versions).
 ```
-https://huggingface.co/haofah14/models
+https://huggingface.co/haofah14/models/tree/main
 ```
